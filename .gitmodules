@@ -1,0 +1,3 @@
+[submodule "GitInner"]
+	path = GitInner
+	url = ./GitInner
